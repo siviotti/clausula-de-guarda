@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RunManager">
+    <configuration name="All in clausula-de-guarda" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="clausula-de-guarda" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in clausula-de-guarda" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
