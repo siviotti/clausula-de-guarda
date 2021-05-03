@@ -1,6 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="RunManager">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94c31a6c-72b2-41e9-a072-f0b68ba1722d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/siviotti/clausuladeguarda/ExemploKentBeck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/siviotti/clausuladeguarda/ExemploCinema.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clausula-de-guarda.iml" beforeDir="false" afterPath="$PROJECT_DIR$/clausula-de-guarda.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tdc-2021-connections-clausula-de-guarda.odp" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tdc-2021-connections-clausula-de-guarda.odp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/siviotti/clausuladeguarda/Matematica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/siviotti/clausuladeguarda/Matematica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/siviotti/clausuladeguarda/Matematika.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/siviotti/clausuladeguarda/Matematika.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="zs4jfnwl" />
+  </component>
+  <component name="ProjectId" id="1rxhm81125wpeWJxd9Ug1FMg1sD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/kotlin/siviotti/clausuladeguarda" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="siviotti.clausuladeguarda" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MatematikaTest.testDivide">
     <configuration name="All in clausula-de-guarda" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="clausula-de-guarda" />
       <option name="PACKAGE_NAME" value="" />
@@ -9,10 +77,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MatematikaTest.testDivide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="clausula-de-guarda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="siviotti.clausuladeguarda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="siviotti.clausuladeguarda" />
+      <option name="MAIN_CLASS_NAME" value="siviotti.clausuladeguarda.MatematikaTest" />
+      <option name="METHOD_NAME" value="testDivide" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MatematikaTest.testDivide" />
         <item itemvalue="JUnit.All in clausula-de-guarda" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94c31a6c-72b2-41e9-a072-f0b68ba1722d" name="Default Changelist" comment="" />
+      <created>1619923804546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619923804546</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

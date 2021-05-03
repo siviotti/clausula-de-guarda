@@ -7,6 +7,7 @@ import java.math.BigInteger;
  *
  * @author Douglas Siviotti
  * @since TDC Connections 2021 - Trilha Design de Código e XP
+ * @see Matematika
  */
 public class Matematica {
 
