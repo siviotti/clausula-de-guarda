@@ -32,9 +32,9 @@ public class MatematicaTest {
 
     @Test
     public void testDivide(){
-        Matematica matematica = new Matematica();
-        int resultado = matematica.divide(6,2);
-        assertEquals(3, resultado);
+        Matematica matematica = new Matematica();// 1 Cenário
+        int resultado = matematica.divide(6,2);  // 2 Execução
+        assertEquals(3, resultado);              // 3 Aferição
     }
 
     @Test

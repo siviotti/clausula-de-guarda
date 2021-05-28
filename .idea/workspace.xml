@@ -5,18 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94c31a6c-72b2-41e9-a072-f0b68ba1722d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/siviotti/clausuladeguarda/ExemploKentBeck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/siviotti/clausuladeguarda/ExemploCinema.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/siviotti/clausuladeguarda/Calculadora1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/siviotti/clausuladeguarda/Calculadora2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/siviotti/clausuladeguarda/Calculadora3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/siviotti/clausuladeguarda/Impacto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/siviotti/clausuladeguarda/CalcModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/siviotti/clausuladeguarda/Style.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/008331bc105d27360de179503d908c787b9ac700" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d7af75298d104998661f7304fabf05b7c86a241" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2ecffb789abf031dc9748fffbb0664e81ed2c57c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9edaa4be0669a232fffdd50a7f0c8fd485d6b7fc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clausula-de-guarda.iml" beforeDir="false" afterPath="$PROJECT_DIR$/clausula-de-guarda.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tdc-2021-connections-clausula-de-guarda.odp" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tdc-2021-connections-clausula-de-guarda.odp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/siviotti/clausuladeguarda/Matematica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/siviotti/clausuladeguarda/Matematica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/siviotti/clausuladeguarda/Matematika.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/siviotti/clausuladeguarda/Matematika.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/siviotti/clausuladeguarda/MatematicaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/siviotti/clausuladeguarda/MatematicaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +30,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -59,6 +62,7 @@
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.SonarLint" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
@@ -67,8 +71,52 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="siviotti.clausuladeguarda" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="siviotti.clausuladeguarda" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.MatematikaTest.testDivide">
+  <component name="RunManager" selected="Application.Impacto">
+    <configuration name="Calculadora1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="siviotti.clausuladeguarda.Calculadora1" />
+      <module name="clausula-de-guarda" />
+      <option name="PROGRAM_PARAMETERS" value="6 / 0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="siviotti.clausuladeguarda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculadora3" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="siviotti.clausuladeguarda.Calculadora3" />
+      <module name="clausula-de-guarda" />
+      <option name="PROGRAM_PARAMETERS" value="2 + 3e" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="siviotti.clausuladeguarda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Impacto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="siviotti.clausuladeguarda.Impacto" />
+      <module name="clausula-de-guarda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="siviotti.clausuladeguarda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="All in clausula-de-guarda" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="clausula-de-guarda" />
       <option name="PACKAGE_NAME" value="" />
@@ -95,6 +143,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Impacto" />
+        <item itemvalue="Application.Calculadora1" />
         <item itemvalue="JUnit.MatematikaTest.testDivide" />
         <item itemvalue="JUnit.All in clausula-de-guarda" />
       </list>
@@ -125,5 +175,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

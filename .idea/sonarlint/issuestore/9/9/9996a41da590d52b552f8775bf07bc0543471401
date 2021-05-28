@@ -1,0 +1,19 @@
+
+j
+java:S1192"MDefine a constant instead of duplicating this literal "Resultado = " 3 times.(Û‘°ô8‡®ı€›/
+E
+java:S6212"/Declare this local variable with "var" instead.(·ßêó
+E
+java:S6212	"/Declare this local variable with "var" instead.(·èò
+E
+java:S6212
+"/Declare this local variable with "var" instead.(Í‰ª
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Û‘°ô
+L	java:S106"9Replace this use of System.out or System.err by a logger.(‹Ïû
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹Ïû8‡ıé€›/
+C
+java:S6212"/Declare this local variable with "var" instead.(Í‰ª
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Û‘°ô8Òòê€›/
+J
+java:S6212"/Declare this local variable with "var" instead.(Í‰ª8•®ı€›/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Û‘°ô8›®ı€›/

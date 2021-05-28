@@ -1,0 +1,19 @@
+
+f
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(õÙÆ‚úÿÿÿÿ
+O
+java:S4973
+"9Use the "equals" method if value comparison was intended.(×—õé
+O
+java:S4973
+"9Use the "equals" method if value comparison was intended.(×—õé
+E
+java:S6212"/Declare this local variable with "var" instead.(×’Æ³
+J
+java:S6212"/Declare this local variable with "var" instead.(í”Ãøÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(«ßÏÊ
+E
+java:S6212"/Declare this local variable with "var" instead.(Í‰ª
+<	java:S131""Add a default case to this switch.(õÙÆ‚úÿÿÿÿ
+M	java:S106%"9Replace this use of System.out or System.err by a logger.(ÆÕ‰
