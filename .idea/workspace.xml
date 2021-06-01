@@ -5,21 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94c31a6c-72b2-41e9-a072-f0b68ba1722d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/siviotti/clausuladeguarda/Calculadora1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/siviotti/clausuladeguarda/Calculadora2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/siviotti/clausuladeguarda/Calculadora3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/siviotti/clausuladeguarda/Impacto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/siviotti/clausuladeguarda/CalcModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/siviotti/clausuladeguarda/Style.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/008331bc105d27360de179503d908c787b9ac700" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d7af75298d104998661f7304fabf05b7c86a241" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2ecffb789abf031dc9748fffbb0664e81ed2c57c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9edaa4be0669a232fffdd50a7f0c8fd485d6b7fc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.~lock.tdc-2021-connections-clausula-de-guarda.odp#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/siviotti/clausuladeguarda/Sorvete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/siviotti/clausuladeguarda/SorveteTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tdc-2021-connections-clausula-de-guarda.odp" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tdc-2021-connections-clausula-de-guarda.odp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/siviotti/clausuladeguarda/MatematicaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/siviotti/clausuladeguarda/MatematicaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -57,7 +47,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/kotlin/siviotti/clausuladeguarda" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/siviotti/clausuladeguarda" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.0" />
@@ -75,7 +65,7 @@
       <recent name="siviotti.clausuladeguarda" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Impacto">
+  <component name="RunManager" selected="JUnit.SorveteTest.testPrecoSorvete">
     <configuration name="Calculadora1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="siviotti.clausuladeguarda.Calculadora1" />
       <module name="clausula-de-guarda" />
@@ -117,15 +107,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in clausula-de-guarda" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="clausula-de-guarda" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MatematikaTest.testDivide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SorveteTest.testPrecoSorvete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="clausula-de-guarda" />
       <extension name="coverage">
         <pattern>
@@ -134,8 +116,40 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="siviotti.clausuladeguarda" />
-      <option name="MAIN_CLASS_NAME" value="siviotti.clausuladeguarda.MatematikaTest" />
-      <option name="METHOD_NAME" value="testDivide" />
+      <option name="MAIN_CLASS_NAME" value="siviotti.clausuladeguarda.SorveteTest" />
+      <option name="METHOD_NAME" value="testPrecoSorvete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SorveteTest.testPrecoSorvete1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="clausula-de-guarda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="siviotti.clausuladeguarda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="siviotti.clausuladeguarda" />
+      <option name="MAIN_CLASS_NAME" value="siviotti.clausuladeguarda.SorveteTest" />
+      <option name="METHOD_NAME" value="testPrecoSorvete1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SorveteTest.testPrecoSorvete2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="clausula-de-guarda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="siviotti.clausuladeguarda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="siviotti.clausuladeguarda" />
+      <option name="MAIN_CLASS_NAME" value="siviotti.clausuladeguarda.SorveteTest" />
+      <option name="METHOD_NAME" value="testPrecoSorvete2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -143,10 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SorveteTest.testPrecoSorvete" />
+        <item itemvalue="JUnit.SorveteTest.testPrecoSorvete1" />
+        <item itemvalue="JUnit.SorveteTest.testPrecoSorvete2" />
         <item itemvalue="Application.Impacto" />
         <item itemvalue="Application.Calculadora1" />
-        <item itemvalue="JUnit.MatematikaTest.testDivide" />
-        <item itemvalue="JUnit.All in clausula-de-guarda" />
       </list>
     </recent_temporary>
   </component>
