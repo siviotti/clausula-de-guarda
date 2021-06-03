@@ -103,4 +103,44 @@ public class Sorvete {
         if (!casquinha) return preco;
         return (coberturas > 1) ? preco + 2 : preco + 1;
     }
+
+    /**
+     * Este versão utiliza algumas cláusulas de guarda e já dá pra perceber que uma
+     * parte do é checagem de pré-condições enquanto a segunda é o cálculo de fato.
+     */
+    public int precoSorvete3(boolean premium, boolean casquinha, int coberturas) {
+        if (! premium && casquinha)
+            throw new IllegalArgumentException("Somente premium tem casquinha");
+        if (! casquinha && coberturas > 1)
+            throw new IllegalArgumentException("Somente premium + casquinha pode ter mais de uma cobertura");
+        if (coberturas > 3)
+            throw new IllegalArgumentException("O máximo de coberturas permitido é 3");
+        int preco = 15 + 1 + 1;  // copo + 1 cob
+        if (!premium) return preco;
+        preco = 20 + 1 + 1;      // copo + 1 cob
+        if (!casquinha) return preco;
+        return (coberturas > 1) ? preco + 2 : preco + 1;
+    }
+
+    /**
+     * Este versão utiliza desloca a checagem de pré-condições para outro método.
+     */
+    public int precoSorvete4(boolean premium, boolean casquinha, int coberturas) {
+        checkParametros(premium, casquinha, coberturas);
+        int preco = 15 + 1 + 1;  // copo + 1 cob
+        if (!premium) return preco;
+        preco = 20 + 1 + 1;      // copo + 1 cob
+        if (!casquinha) return preco;
+        return (coberturas > 1) ? preco + 2 : preco + 1;
+    }
+
+    void checkParametros(boolean premium, boolean casquinha, int coberturas) {
+        if (! premium && casquinha)
+            throw new IllegalArgumentException("Somente premium tem casquinha");
+        if (! casquinha && coberturas > 1)
+            throw new IllegalArgumentException("Somente premium + casquinha pode ter mais de uma cobertura");
+        if (coberturas > 3)
+            throw new IllegalArgumentException("O máximo de coberturas permitido é 3");
+    }
+
 }
